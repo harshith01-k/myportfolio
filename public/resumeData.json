@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name": "Harshith Kanigarla",
+    
+    "description": "Your next front end web developer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Harshith!  I am enthusiastic front end web developer",
+    
+    "email": "harshithkanigarla784@gmail.com",
+    "phone": "7330692036",
+    "address": {
+      
+      "city": "vijayawada",
+      "state": "Andhra pradesh"
+  
+    }
+    
+   
+    
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gudlavalleru Engineering College",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "2022",
+        "description": "Yet to be Graduated"
+      }
+    ],
+    "work": [
+      {
+        
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Sass",
+        "level": "70%"
+      },
+      
+      
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amzon.png",
+        "url": "https://clone-amazon1.netlify.app/"
+      },
+      {
+        "title": "Hulu Clone (React JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu-598a2.web.app/"
+      },
+      {
+        "title": "Capture (React JS)",
+        "category": "",
+        "image": "capture.png",
+        "url": "https://imgcapture.netlify.app/"
+      },
+      {
+        "title": "Instagram Clone (React JS)",
+        "category": "",
+        "image": "insta.png",
+        "url": "https://instagram-74707.web.app/"
+      }
+    ]
+  }
+  
+}
